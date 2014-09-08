@@ -1,3 +1,10 @@
+# LOLSpectateDataServer
+
+A wrapper for LeagueLib that starts a server to get an active League of Legends game based on a summoner name. See `src/com/yerich/leaguespectatedata/SpectateDataServer.java`.
+
+Note: Riot has publically stated that automated RTMP calls violates their API terms of service and will not be allowed past September 2014. However, services that get spectator data for the sake of recording may still be tolerated.
+
+
 # LeagueLib
 #### By [Anshu Chimala](http://www.achimala.com), Tyrus Tenneson, and Gavin Saldanha.
 
